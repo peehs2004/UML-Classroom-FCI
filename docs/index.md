@@ -62,21 +62,7 @@ Disponibilidade: Garantir 99,9% de disponibilidade.
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
-# Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
-
-# Diagrama de Classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Estados
-
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
-
-# Diagrama de Implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
 # Referências
 
