@@ -19,13 +19,27 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Solução Pizzaria Express*
 
-# Grupo: *<Nome_do_seu_Grupo>*
-
+# Grupo: *Desenvolvedores de solução*
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+# Autores
+
+* Marcos Antonio
+* Pedro Araujo
+
+
+# Descrição do Projeto
+
+A Pizza-Express, uma rede de fast-food com 40 lojas, enfrentou uma queda de 30% em suas vendas devido a um serviço de entrega lento, que prometia uma hora, em contraste com seu concorrente que entregava em 30 minutos. Para reverter essa situação, o gerente de sistemas de informação, Marcos e Pedro, foram encarregados de desenvolver um novo sistema de software.
+
+O projeto tem dois focos principais:
+
+Sistema de Atendimento de Pedidos: Identificar a loja mais próxima do cliente para otimizar o tempo de entrega.
+Sistema de Operação de Fábricas de Pizzas: Criar unidades de entrega dedicadas, sem espaço de varejo, que garantam a entrega em 10 a 15 minutos.
+Com o apoio da Papa-Léguas Delivery, a equipe deve implementar soluções tecnológicas e logísticas eficientes para aumentar a competitividade da Pizza-Express no setor de delivery.
+
 
 # Documentação
 
