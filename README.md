@@ -35,4 +35,4 @@ Os arquivos da documentação deste projeto estão na pasta [/docs](/docs), e o 
 
 # Releases
 
-Deverá ser publicado um release ao término de cada entrega do projeto.
+Deverá ser publicado um release ao término de cada entrega do projeto..
