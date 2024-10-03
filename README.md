@@ -22,7 +22,6 @@ A seguir, os passos para a preparação do projeto:
 # Projeto: *Solução Pizzaria Express*
 
 # Grupo: *Desenvolvedores de solução*
-# Descrição
 
 # Autores
 
