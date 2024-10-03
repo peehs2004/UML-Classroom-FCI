@@ -2,8 +2,8 @@
 <h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
 
 
-<font size="+12"><center>
-*&lt;Solução Pizzaria Express&gt;*
+<font size="+22"><center>
+#Solução Pizzaria Express
 </center></font>
 
 
