@@ -54,9 +54,9 @@ Disponibilidade: Garantir 99,9% de disponibilidade.
 
 &gt;*
 
-# Diagrama de Casos de Uso
-
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+# Diagrama de Classes
+*&lt;[Blank diagram (2).pdf](https://github.com/user-attachments/files/17949952/Blank.diagram.2.pdf)
+ &gt;*
 
 # Descrição dos Casos de Uso
 
